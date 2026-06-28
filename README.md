@@ -46,7 +46,7 @@ jobtracker/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/jobtracker.git
+git clone https://github.com/shrravya10/jobtracker.git
 cd jobtracker
 
 # 2. Install dependencies
